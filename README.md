@@ -1,6 +1,6 @@
 # Gartic Clone
 
-This is a Gartic clone project built with React, Node.js, Express, and Socket.IO.
+A clone of the web game "Gartic", built with React, Node.js, Express, and Socket.IO.
 
 ## Project Description
 
@@ -24,16 +24,16 @@ The Gartic clone is a multiplayer drawing and guessing game where players take t
 
 ## Screenshots
 
-# Lobby
+### Lobby
 ![Alt text](./screenshots/image.png)
 
-# Waiting room
+### Waiting room
 ![Alt text](./screenshots/image-3.png)
 
-# Painter choosing a word
+### Painter choosing a word
 ![Alt text](./screenshots/image-2.png)
 
-# Drawing and guessing
+### Drawing and guessing
 ![Alt text](./screenshots/image-1.png)
 
 # Ending
