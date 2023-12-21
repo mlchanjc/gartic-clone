@@ -36,6 +36,6 @@ The Gartic clone is a multiplayer drawing and guessing game where players take t
 ### Drawing and guessing
 ![Alt text](./screenshots/image-1.png)
 
-# Ending
+### Ending
 ![Alt text](./screenshots/image-4.png)
 
