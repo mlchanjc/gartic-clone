@@ -1,0 +1,20 @@
+{
+	"name": "gartic-server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2",
+		"natural": "^6.7.2",
+		"nodemon": "^3.0.1",
+		"pos": "^0.4.2",
+		"random-words": "^2.0.0",
+		"socket.io": "^4.7.2"
+	}
+}
